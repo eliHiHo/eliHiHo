@@ -10,8 +10,8 @@ Ich studiere Informationssicherheit an der THWS in Würzburg und beschäftige mi
 - 📚 Eigenstudium zu Ethical Hacking & Exploitation
 
 ## 🎯 Ziele
-- CompTIA Security+
 - CompTIA Pentest+
+- HTB Penetrationtester
 
 ## 📫
 eli.hiho@web.de
